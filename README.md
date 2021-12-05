@@ -1,4 +1,4 @@
-# franco
+# Nero
 Blogging CMS based on Django.
 
 Based on this [book](https://github.com/PacktPublishing/Django-3-by-Example).
@@ -16,6 +16,6 @@ Based on this [book](https://github.com/PacktPublishing/Django-3-by-Example).
 - Tagging
 - Post similarity
 
-## Why Franco ?
+## Why Nero ?
 
 Easy. A clue: Sergio. Not this one. The other one.
